@@ -1,0 +1,6 @@
+sounddevice
+scipy
+torch
+transformers
+google-api-python-client
+
